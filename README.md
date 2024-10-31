@@ -49,3 +49,8 @@ You can reach me as follows
 
 ----
 Credit: [ngapp-dev](https://github.com/ngapp-dev)
+
+</br>
+</br>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ngapps.dev)
